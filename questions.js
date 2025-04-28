@@ -1,4 +1,3 @@
-
 // creating an array and passing the number, questions, options, and answers
 let questions = [
     {
@@ -56,16 +55,19 @@ let questions = [
       "eXamine Multiple Language"
     ]
   },
- 
-    {
+  // you can uncomment the below codes and make duplicate as more as you want to add question
+  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
+
+  {
     numb: 6,
-    question: "Which one of the following form control types does NOT use the <INPUT> element?",
-    answer: "multitext",
+    question: "Which one of the following form control types does NOT use the &lt;INPUT&gt;  element?",
+    answer: "textarea",
     options: [
       "checkbox",
       "password",
-      "multitext",
+      "textarea",
       "text"
     ]
   },
+  
 ];
