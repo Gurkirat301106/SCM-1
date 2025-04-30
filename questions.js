@@ -80,7 +80,17 @@ let questions = [
     "<link>"
   ]
 },
-
+  {
+  numb: 8,
+  question: "Which property is used in CSS to change the text color of an element?",
+  answer: "color",
+  options: [
+    "background-color",
+    "color",
+    "text-color",
+    "font-color"
+  ]
+},
   
   
 ];
