@@ -344,4 +344,15 @@ let questions = [
     "text-style"
   ]
 },  
+  {
+  numb: 32,
+  question: "Which keyword is used to declare a block-scoped variable in JavaScript?",
+  answer: "let",
+  options: [
+    "var",
+    "define",
+    "let",
+    "const"
+  ]
+},  
 ];
