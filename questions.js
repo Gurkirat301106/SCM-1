@@ -278,4 +278,15 @@ let questions = [
     "name := 'John';"
   ]
 },  
+  {
+  numb: 26,
+  question: "What will `console.log(typeof 123);` output?",
+  answer: "number",
+  options: [
+    "int",
+    "integer",
+    "number",
+    "float"
+  ]
+}  
 ];
