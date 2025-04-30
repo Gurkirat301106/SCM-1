@@ -34,7 +34,7 @@ let questions = [
     ]
   },
     {
-    numb: ,
+    numb: 4,
     question: "What does SQL stand for?",
     answer: "Structured Query Language",
     options: [
