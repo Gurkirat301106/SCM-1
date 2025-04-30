@@ -178,5 +178,16 @@ let questions = [
     "===",
     ":="
   ]
-}
+},
+{
+  numb: 17,
+  question: "Which CSS property controls the text size?",
+  answer: "font-size",
+  options: [
+    "text-style",
+    "text-size",
+    "font-size",
+    "font-style"
+  ]
+},  
 ];
