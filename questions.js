@@ -256,4 +256,15 @@ let questions = [
     "define"
   ]
 },  
+  {
+  numb: 24,
+  question: "How do you write a single-line comment in JavaScript?",
+  answer: "// This is a comment",
+  options: [
+    "# This is a comment",
+    "// This is a comment",
+    "<!-- This is a comment -->",
+    "** This is a comment **"
+  ]
+},  
 ];
