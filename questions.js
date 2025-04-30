@@ -56,7 +56,7 @@ let questions = [
     ]
   },
  
-  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
+
 
   {
     numb: 6,
