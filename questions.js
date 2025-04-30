@@ -211,5 +211,16 @@ let questions = [
     "<gauge>",
     "<meter>"
   ]
+},
+  {
+  numb: 20,
+  question: "Which JavaScript method adds a new element to the end of an array?",
+  answer: "push()",
+  options: [
+    "pop()",
+    "shift()",
+    "unshift()",
+    "push()"
+  ]
 },  
 ];
