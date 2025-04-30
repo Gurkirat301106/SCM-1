@@ -234,4 +234,15 @@ let questions = [
     "<list>"
   ]
 },  
+  {
+  numb: 22,
+  question: "Which symbol is used for addition in JavaScript?",
+  answer: "+",
+  options: [
+    "+",
+    "*",
+    "&",
+    "%"
+  ]
+},  
 ];
