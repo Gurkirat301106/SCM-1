@@ -69,5 +69,18 @@ let questions = [
       "text"
     ]
   },
+  {
+  numb: 7,
+  question: "Which HTML tag is used to define an internal style sheet?",
+  answer: "<style>",
+  options: [
+    "<script>",
+    "<css>",
+    "<style>",
+    "<link>"
+  ]
+},
+
+  
   
 ];
