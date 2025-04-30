@@ -244,5 +244,16 @@ let questions = [
     "&",
     "%"
   ]
+}, 
+  {
+  numb: 23,
+  question: "Which keyword is used to define a function in JavaScript?",
+  answer: "function",
+  options: [
+    "method",
+    "func",
+    "function",
+    "define"
+  ]
 },  
 ];
