@@ -200,5 +200,16 @@ let questions = [
     "Declares a variable",
     "Creates a function"
   ]
+}, 
+  {
+  numb: 19,
+  question: "Which HTML element is used to display a scalar measurement within a known range?",
+  answer: "<meter>",
+  options: [
+    "<range>",
+    "<progress>",
+    "<gauge>",
+    "<meter>"
+  ]
 },  
 ];
