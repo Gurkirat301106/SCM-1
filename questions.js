@@ -113,4 +113,15 @@ let questions = [
     "#"
   ]
 },
+  {
+  numb: 11,
+  question: "Which method is used to convert JSON data to a JavaScript object?",
+  answer: "JSON.parse()",
+  options: [
+    "JSON.stringify()",
+    "JSON.parse()",
+    "JSON.convert()",
+    "JSON.toObject()"
+  ]
+}  
 ];
