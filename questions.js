@@ -10,7 +10,7 @@ let questions = [
       "Hyper Text Multiple Language",
       "Hyper Tool Multi Language"
     ]
-  }
+  },
     {
     numb: 2,
     question: "What does CSS stand for?",
