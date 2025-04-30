@@ -156,5 +156,16 @@ let questions = [
     "Google",
     "Oracle"
   ]
+}, 
+  {
+  numb: 15,
+  question: "What does DOM stand for?",
+  answer: "Document Object Model",
+  options: [
+    "Document Object Model",
+    "Data Object Model",
+    "Document Order Model",
+    "Desktop Object Model"
+  ]
 },  
 ];
