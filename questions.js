@@ -355,4 +355,15 @@ let questions = [
     "const"
   ]
 },  
+  {
+  numb: 33,
+  question: "What is the correct HTML tag for inserting an image?",
+  answer: "<img>",
+  options: [
+    "<image>",
+    "<img>",
+    "<src>",
+    "<picture>"
+  ]
+},  
 ];
