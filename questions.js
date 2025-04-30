@@ -222,5 +222,16 @@ let questions = [
     "unshift()",
     "push()"
   ]
+},
+  {
+  numb: 21,
+  question: "Which tag is used to create a dropdown in HTML?",
+  answer: "<select>",
+  options: [
+    "<dropdown>",
+    "<option>",
+    "<select>",
+    "<list>"
+  ]
 },  
 ];
