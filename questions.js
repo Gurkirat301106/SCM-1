@@ -333,4 +333,15 @@ let questions = [
     "unique"
   ]
 },  
+  {
+  numb: 31,
+  question: "Which CSS property controls the font used in an element?",
+  answer: "font-family",
+  options: [
+    "font",
+    "font-family",
+    "font-type",
+    "text-style"
+  ]
+},  
 ];
