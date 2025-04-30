@@ -376,5 +376,16 @@ let questions = [
     "opacity: 0;",
     "hide: true;"
   ]
+},
+  {
+  numb: 35,
+  question: "What is the output of: `typeof 'Hello'` in JavaScript?",
+  answer: "string",
+  options: [
+    "text",
+    "char",
+    "string",
+    "object"
+  ]
 },  
 ];
