@@ -55,9 +55,6 @@ let questions = [
       "eXamine Multiple Language"
     ]
   },
- 
-
-
   {
     numb: 6,
     question: "Which one of the following form control types does NOT use the &lt;INPUT&gt;  element?",
