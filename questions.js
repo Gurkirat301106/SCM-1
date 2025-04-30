@@ -288,5 +288,16 @@ let questions = [
     "number",
     "float"
   ]
-}  
+},
+  {
+  numb: 27,
+  question: "Which HTML element is used for inserting a line break?",
+  answer: "<br>",
+  options: [
+    "<break>",
+    "<br>",
+    "<lb>",
+    "<line>"
+  ]
+},  
 ];
