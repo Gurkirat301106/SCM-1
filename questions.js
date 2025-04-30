@@ -406,4 +406,15 @@ let questions = [
       "<li>"
     ]
   },  
+   {
+    numb: 38,
+    question: "What is the purpose of the <head> tag in an HTML document?",
+    answer: "To contain meta-information about the document",
+    options: [
+      "To display the main content",
+      "To define footer information",
+      "To contain meta-information about the document",
+      "To include user input forms"
+    ]
+  },  
 ];
