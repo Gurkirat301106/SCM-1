@@ -300,4 +300,15 @@ let questions = [
     "<line>"
   ]
 },  
+  {
+  numb: 28,
+  question: "Which CSS property is used to change the background color?",
+  answer: "background-color",
+  options: [
+    "color",
+    "bg-color",
+    "background-color",
+    "background"
+  ]
+},  
 ];
