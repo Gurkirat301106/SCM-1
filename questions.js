@@ -145,5 +145,16 @@ let questions = [
     "font",
     "styles"
   ]
+}, 
+  {
+  numb: 14,
+  question: "Which company developed JavaScript?",
+  answer: "Netscape",
+  options: [
+    "Microsoft",
+    "Netscape",
+    "Google",
+    "Oracle"
+  ]
 },  
 ];
