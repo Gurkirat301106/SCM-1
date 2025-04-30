@@ -91,6 +91,16 @@ let questions = [
     "font-color"
   ]
 },
-  
+  {
+  numb: 9,
+  question: "Which of the following is not a JavaScript data type?",
+  answer: "float",
+  options: [
+    "undefined",
+    "number",
+    "boolean",
+    "float"
+  ]
+},
   
 ];
