@@ -267,4 +267,15 @@ let questions = [
     "** This is a comment **"
   ]
 },  
+  {
+  numb: 25,
+  question: "Which of the following is a correct variable declaration in JavaScript?",
+  answer: "let name = 'John';",
+  options: [
+    "variable name = 'John';",
+    "let name = 'John';",
+    "string name = 'John';",
+    "name := 'John';"
+  ]
+},  
 ];
