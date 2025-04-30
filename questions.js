@@ -366,4 +366,15 @@ let questions = [
     "<picture>"
   ]
 },  
+  {
+  numb: 34,
+  question: "Which CSS value makes an element completely invisible but keeps its space?",
+  answer: "visibility: hidden;",
+  options: [
+    "display: none;",
+    "visibility: hidden;",
+    "opacity: 0;",
+    "hide: true;"
+  ]
+},  
 ];
