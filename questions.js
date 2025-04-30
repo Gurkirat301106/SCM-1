@@ -123,5 +123,27 @@ let questions = [
     "JSON.convert()",
     "JSON.toObject()"
   ]
-}  
+},  
+  {
+  numb: 12,
+  question: "Which keyword is used to declare a constant in JavaScript?",
+  answer: "const",
+  options: [
+    "let",
+    "constant",
+    "var",
+    "const"
+  ]
+},  
+  {
+  numb: 13,
+  question: "Which HTML attribute is used to define inline styles?",
+  answer: "style",
+  options: [
+    "class",
+    "style",
+    "font",
+    "styles"
+  ]
+},  
 ];
