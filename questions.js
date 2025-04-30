@@ -168,4 +168,15 @@ let questions = [
     "Desktop Object Model"
   ]
 },  
+  {
+  numb: 16,
+  question: "Which operator is used to assign a value to a variable in JavaScript?",
+  answer: "=",
+  options: [
+    "==",
+    "=",
+    "===",
+    ":="
+  ]
+}
 ];
