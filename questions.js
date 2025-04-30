@@ -311,4 +311,15 @@ let questions = [
     "background"
   ]
 },  
+  {
+  numb: 29,
+  question: "Which method is used to print something to the browser console in JavaScript?",
+  answer: "console.log()",
+  options: [
+    "print()",
+    "log()",
+    "console.log()",
+    "echo()"
+  ]
+},  
 ];
