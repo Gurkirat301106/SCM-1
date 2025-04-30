@@ -102,5 +102,15 @@ let questions = [
     "float"
   ]
 },
-  
+  {
+  numb: 10,
+  question: "Which symbol is used for comments in JavaScript?",
+  answer: "//",
+  options: [
+    "/* */",
+    "<!-- -->",
+    "//",
+    "#"
+  ]
+},
 ];
