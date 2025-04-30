@@ -189,5 +189,16 @@ let questions = [
     "font-size",
     "font-style"
   ]
+},
+  {
+  numb: 18,
+  question: "What does the 'var' keyword do in JavaScript?",
+  answer: "Declares a variable",
+  options: [
+    "Declares a constant",
+    "Defines a class",
+    "Declares a variable",
+    "Creates a function"
+  ]
 },  
 ];
