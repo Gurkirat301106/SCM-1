@@ -387,5 +387,16 @@ let questions = [
     "string",
     "object"
   ]
-},  
+},
+  {
+  numb: 36,
+  question: "Which HTML tag is used to define a table row?",
+  answer: "<tr>",
+  options: [
+    "<td>",
+    "<tr>",
+    "<row>",
+    "<table>"
+  ]
+}  
 ];
