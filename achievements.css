@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f8f9fd;
+    color: #333;
+  }
+  
+  /* Navbar */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #1a73e8;
+    color: white;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .nav-links li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .nav-links li a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Achievement Section */
+  .achievement-section {
+    padding: 5rem 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+  }
+  
+  .result-box {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 12px;
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #1a73e8;
+  }
+  
+  .complete-text {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+  
+  .score-text {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .buttons .home-btn {
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    border-radius: 6px;
+    border: 1px solid #1a73e8;
+    background-color: white;
+    color: #1a73e8;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .buttons .home-btn:hover {
+    background-color: #1a73e8;
+    color: white;
+  }
+  
+  /* Footer */
+  .footer {
+    margin-top: auto;
+    background-color: #1a73e8;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 0.95rem;
+  }
+  
